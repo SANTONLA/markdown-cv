@@ -9,12 +9,13 @@ title: SILVIA ANTÓN's CV
 📫 How to reach me. Just e-mail to: santonla@outlook.es
 ---
 # SILVIA ANTÓN
-MSc. in Business Intelligence. Bachelor's in Business Administration
+
+MSc. en Inteligencia de Negocio. Graduada Universitaria en Administración y Dirección de Empresas.
 
 
-## ACCTUALMENTE
+## ACTUALMENTE
 
-Standing on the shoulders of giants
+Buscando nuevas oportunidades en el campo de la inteligencia de negocio.
 
 ### ESPECIALIZADA EN
 
@@ -28,8 +29,9 @@ Power BI, R Studio, SQL, Phyton, Matlab, GitHub
 
 ## EDUCACIÓN
 
-'Oct.2019-Oct.2021'
+`Oct.2019 - Oct.2021`
 __UNIVERSIDAD INTERNACIONAL DE LA RIOJA, Logroño.__
+
 MASTER UNIVERSITARIO EN INTELIGENCIA DE NEGOCIO
 
 `Oct. 2014 - Oct.2018`
@@ -41,7 +43,7 @@ GRADO UNIVERSITARIO EN ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESA
 
 ## PUBLICACIONES
 
-<!-- A list is also available [online]() -->
+<!-- A list is also available [online](https://github.com/SANTONLA/SANTONLA) -->
 
 
 
