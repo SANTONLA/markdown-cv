@@ -1,91 +1,61 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: SILVIA ANTÓN's CV
+
+👋 Hi, I’m @SANTONLA
+👀 I’m interested in SQL, Matlab, R Studio; Github tips
+🌱 I’m currently learning how to do a CV on Github
+💞️ I’m looking to collaborate on BI projects.
+📫 How to reach me. Just e-mail to: santonla@outlook.es
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# SILVIA ANTÓN
+MSc. in Business Intelligence. Bachelor's in Business Administration
 
 
-## Currently
+## ACCTUALMENTE
 
 Standing on the shoulders of giants
 
-### Specialized in
+### ESPECIALIZADA EN
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Herramientas de Inteligencia de Negocio
 
 
-## Education
+### Temas de Interés
 
-`1654-1660`
-__The King's School, Grantham.__
+Power BI, R Studio, SQL, Phyton, Matlab, GitHub
 
-`June 1661 - now`
-__Trinity College, Cambridge__
 
-- Sizar
+## EDUCACIÓN
 
-`1667 - death`
-__Trinity College, Cambridge__
+'Oct.2019-Oct.2021'
+__UNIVERSIDAD INTERNACIONAL DE LA RIOJA, Logroño.__
+MASTER UNIVERSITARIO EN INTELIGENCIA DE NEGOCIO
 
-- Fellow
+`Oct. 2014 - Oct.2018`
+__UNIVERSIDAD INTERNACIONAL DE LA RIOJA, Logroño.__
+
+GRADO UNIVERSITARIO EN ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESA
 
 
 
-## Awards
+## PUBLICACIONES
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+<!-- A list is also available [online]() -->
 
 
 
-## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## EXPERIENCIA
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+TÉCNICO DE COMPRAS
+__FM LOGISTIC__, PAMPLONA
 
 
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
+
+
+Ultima actualización: May 2022-->
 
 
